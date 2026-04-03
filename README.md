@@ -1,2 +1,3 @@
 # Trabalho_math
-Oque eu desenvolvir em 20 min para ganhar ponto extra na aula de matematica, humm ta ok eu so queria apresentar algo mesmo
+Era uma atividade valendo 1 ponto extra em matematica as a professora não deixou nenhuma pessoa apressentar. Em resulmo no final fiquei chateado, mas tudo bem vamos esquecer isso alias fiz em 1/3 de 1 hora 
+bom seja isso, joguei em uma IA meu codico em python e mandei ele fazer o codico em outras linguages que eu acho interesante em resulmo prestou para alguma coisa...
